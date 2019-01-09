@@ -1,0 +1,24 @@
+{
+  "name": "backend-lauren",
+  "author": "Ioan Ghisoi",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ioan-ghisoi-cko/backend-lauren.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  },
+  "engines": {
+    "node": "7.1.0"
+  },
+  "license": "ISC"
+}

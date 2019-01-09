@@ -1,0 +1,12 @@
+{
+    "name": "Recon Backed",
+    "description": "Recon Backed",
+    "repository": "https://github.com/ioan-ghisoi-cko/backend-lauren",
+    "logo": "https://www.checkout.com/static/img/checkout-logo/logo.svg",
+    "env": {
+        "key": {
+            "description": "Your sandbox secret key",
+            "required": false
+        }
+    }
+}
